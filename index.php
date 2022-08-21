@@ -635,14 +635,14 @@
             </div>
             <div class="col-md-7 wow fadeInUp">
                <div id="message"></div>
-               <form method="post" action="" name="contactform" id="contactform">
+               <form method="post" action="scripts/contact.php">
                   
-                  <input name="name" type="text" id="name" placeholder="Name"/>
-                  <input name="email" type="text" id="email" placeholder="Email"/>
-                  <input name="subject" type="text" id="subject" placeholder="Subject"/>
-                  <input name="comments" cols="40" rows="3" id="comments" placeholder="Message"/>
+                  <input name="name" type="text" placeholder="Name"/>
+                  <input name="email" type="text" placeholder="Email"/>
+                  <input name="subject" type="text" placeholder="Subject"/>
+                  <input name="comments" cols="40" rows="3" placeholder="Message"/>
                   
-                  <input type="submit" class="submit" id="submit" value="Send Message"/>
+                  <input type="submit" class="submit" name="submit" value="Send Message"/>
                </form>
             </div>
             <div class="col-md-5 wow fadeInLeft">
