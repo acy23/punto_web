@@ -239,7 +239,7 @@
                <h3 class="wow fadeInUp">Our Story </h3>
                <p class="wow fadeInUp">Established in 1994 as a producer of ready-to-wear leather & fur apparel and accessories, Punto is nowadays the leader in its sector. Throughout the years Punto Group has risen to an eminent position within the luxury fashion industry. It is our objective to reflect the world’s current trends through our unique collections as well as set new ones to enter new avant-garde territories.</p>
                <p class="wow fadeInUp">
-                  <button type="button" class="btn btn-primary btn-md">Get in Touch</button>
+                  <a href = "#contact"><button type="button" class="btn btn-primary btn-md">Get in Touch</button></a>
                </p>
             </div>
             <div class="col-md-6 wow fadeInUp about-text">
@@ -668,8 +668,16 @@
                <div class="col-md-12 text-center">
                   <h3 class="section-title wow fadeInUp">Punto Group</h3>
                   <p class="wow fadeInUp"> All Rights Reserved. Copyright © 2022 
-                  <a href="http://localhost/" target="_blank">Punto Group</a> 
+                  <a href="" target="_blank">Punto Group</a> 
                   </p>
+                  <center>
+                        <a href="">
+                           Protection of personal data
+                        </a><br>
+                        <a href="">
+                           Cookies
+                        </a>
+                  </center><br>
                   <ul class="social-icons subheading">
                      <li>
                         <a href="#">
